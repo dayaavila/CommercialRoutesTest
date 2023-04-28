@@ -1,0 +1,17 @@
+C:\Users\dayana.avila\Repository\CommercialRoutes\CommercialRoutes.Application\bin\Debug\net6.0\CommercialRoutes.Application.deps.json
+C:\Users\dayana.avila\Repository\CommercialRoutes\CommercialRoutes.Application\bin\Debug\net6.0\CommercialRoutes.Application.dll
+C:\Users\dayana.avila\Repository\CommercialRoutes\CommercialRoutes.Application\bin\Debug\net6.0\CommercialRoutes.Application.pdb
+C:\Users\dayana.avila\Repository\CommercialRoutes\CommercialRoutes.Application\bin\Debug\net6.0\CommercialRoutes.Domain.dll
+C:\Users\dayana.avila\Repository\CommercialRoutes\CommercialRoutes.Application\bin\Debug\net6.0\CommercialRoutes.Infrastructure.dll
+C:\Users\dayana.avila\Repository\CommercialRoutes\CommercialRoutes.Application\bin\Debug\net6.0\CommercialRoutes.Domain.pdb
+C:\Users\dayana.avila\Repository\CommercialRoutes\CommercialRoutes.Application\bin\Debug\net6.0\CommercialRoutes.Infrastructure.pdb
+C:\Users\dayana.avila\Repository\CommercialRoutes\CommercialRoutes.Application\obj\Debug\net6.0\CommercialRoutes.Application.csproj.AssemblyReference.cache
+C:\Users\dayana.avila\Repository\CommercialRoutes\CommercialRoutes.Application\obj\Debug\net6.0\CommercialRoutes.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayana.avila\Repository\CommercialRoutes\CommercialRoutes.Application\obj\Debug\net6.0\CommercialRoutes.Application.AssemblyInfoInputs.cache
+C:\Users\dayana.avila\Repository\CommercialRoutes\CommercialRoutes.Application\obj\Debug\net6.0\CommercialRoutes.Application.AssemblyInfo.cs
+C:\Users\dayana.avila\Repository\CommercialRoutes\CommercialRoutes.Application\obj\Debug\net6.0\CommercialRoutes.Application.csproj.CoreCompileInputs.cache
+C:\Users\dayana.avila\Repository\CommercialRoutes\CommercialRoutes.Application\obj\Debug\net6.0\CommercialRoutes.Application.csproj.CopyComplete
+C:\Users\dayana.avila\Repository\CommercialRoutes\CommercialRoutes.Application\obj\Debug\net6.0\CommercialRoutes.Application.dll
+C:\Users\dayana.avila\Repository\CommercialRoutes\CommercialRoutes.Application\obj\Debug\net6.0\refint\CommercialRoutes.Application.dll
+C:\Users\dayana.avila\Repository\CommercialRoutes\CommercialRoutes.Application\obj\Debug\net6.0\CommercialRoutes.Application.pdb
+C:\Users\dayana.avila\Repository\CommercialRoutes\CommercialRoutes.Application\obj\Debug\net6.0\ref\CommercialRoutes.Application.dll

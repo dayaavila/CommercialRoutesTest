@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "lJ2wri635rBd7R9UdEqVdmsybia+2ayluvzXPYbMPOzOvhV8FvqFQWWiHQJPtHbK3yACZhfTWm+JH26VONeNUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dayana.avila\\Repository\\CommercialRoutes\\CommercialRoutes.Domain\\CommercialRoutes.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dayana.avila\\.nuget\\packages\\flurl\\3.0.6\\flurl.3.0.6.nupkg.sha512",
+    "C:\\Users\\dayana.avila\\.nuget\\packages\\flurl.http\\3.2.4\\flurl.http.3.2.4.nupkg.sha512",
+    "C:\\Users\\dayana.avila\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\dayana.avila\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\dayana.avila\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\dayana.avila\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\dayana.avila\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\dayana.avila\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\dayana.avila\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\dayana.avila\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\dayana.avila\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\dayana.avila\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

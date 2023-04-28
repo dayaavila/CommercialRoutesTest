@@ -1,0 +1,12 @@
+C:\Users\dayana.avila\Repository\CommercialRoutes\CommercialRoutes.Infrastructure\bin\Debug\net6.0\CommercialRoutes.Infrastructure.deps.json
+C:\Users\dayana.avila\Repository\CommercialRoutes\CommercialRoutes.Infrastructure\bin\Debug\net6.0\CommercialRoutes.Infrastructure.dll
+C:\Users\dayana.avila\Repository\CommercialRoutes\CommercialRoutes.Infrastructure\bin\Debug\net6.0\CommercialRoutes.Infrastructure.pdb
+C:\Users\dayana.avila\Repository\CommercialRoutes\CommercialRoutes.Infrastructure\obj\Debug\net6.0\CommercialRoutes.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\dayana.avila\Repository\CommercialRoutes\CommercialRoutes.Infrastructure\obj\Debug\net6.0\CommercialRoutes.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayana.avila\Repository\CommercialRoutes\CommercialRoutes.Infrastructure\obj\Debug\net6.0\CommercialRoutes.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\dayana.avila\Repository\CommercialRoutes\CommercialRoutes.Infrastructure\obj\Debug\net6.0\CommercialRoutes.Infrastructure.AssemblyInfo.cs
+C:\Users\dayana.avila\Repository\CommercialRoutes\CommercialRoutes.Infrastructure\obj\Debug\net6.0\CommercialRoutes.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\dayana.avila\Repository\CommercialRoutes\CommercialRoutes.Infrastructure\obj\Debug\net6.0\CommercialRoutes.Infrastructure.dll
+C:\Users\dayana.avila\Repository\CommercialRoutes\CommercialRoutes.Infrastructure\obj\Debug\net6.0\refint\CommercialRoutes.Infrastructure.dll
+C:\Users\dayana.avila\Repository\CommercialRoutes\CommercialRoutes.Infrastructure\obj\Debug\net6.0\CommercialRoutes.Infrastructure.pdb
+C:\Users\dayana.avila\Repository\CommercialRoutes\CommercialRoutes.Infrastructure\obj\Debug\net6.0\ref\CommercialRoutes.Infrastructure.dll

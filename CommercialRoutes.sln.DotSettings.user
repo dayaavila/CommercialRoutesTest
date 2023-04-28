@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/SolBuilderDuo/UseMsbuildSolutionBuilder/@EntryValue">NewVersion</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=44fe4f3f_002Da8fa_002D4b39_002Db799_002D430286cecbca/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::595F207D-131E-473E-B085-47673017B9CE::net6.0::CommercialRoutes.Domain.Test.Services.DistanceServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E317D06D-DD5B-4950-8713-6E0D37F7D03D::net6.0::CommercialRoutes.Infrastructure.Test.Services.DistanceApiServiceTests.GivenUnavailableRoute_WhenGetLunarDaysDistance_ThenReturnsKeyNotFoundException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E317D06D-DD5B-4950-8713-6E0D37F7D03D::net6.0::CommercialRoutes.Infrastructure.Test.Services.DistanceApiServiceTests.Given_When_ThenReturnsKeyNotFoundException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E317D06D-DD5B-4950-8713-6E0D37F7D03D::net6.0::CommercialRoutes.Infrastructure.Test.Services.DistanceApiServiceTests.GivenRoute_WhenGetDistances_ThenReturnsExpectedValues2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E317D06D-DD5B-4950-8713-6E0D37F7D03D::net6.0::CommercialRoutes.Infrastructure.Test.Services.DistanceApiServiceTests.GivenRoute_WhenGetDistancesFailed_ThenReturnsExpectedException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E317D06D-DD5B-4950-8713-6E0D37F7D03D::net6.0::CommercialRoutes.Infrastructure.Test.Services.DistanceApiServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

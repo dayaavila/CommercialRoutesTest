@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dayana.avila\\Repository\\CommercialRoutes\\CommercialRoutes.Domain\\CommercialRoutes.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dayana.avila\\Repository\\CommercialRoutes\\CommercialRoutes.Domain\\CommercialRoutes.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dayana.avila\\Repository\\CommercialRoutes\\CommercialRoutes.Domain\\CommercialRoutes.Domain.csproj",
+        "projectName": "CommercialRoutes.Domain",
+        "projectPath": "C:\\Users\\dayana.avila\\Repository\\CommercialRoutes\\CommercialRoutes.Domain\\CommercialRoutes.Domain.csproj",
+        "packagesPath": "C:\\Users\\dayana.avila\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dayana.avila\\Repository\\CommercialRoutes\\CommercialRoutes.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dayana.avila\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://vueling.pkgs.visualstudio.com/_packaging/vy-nuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\dayana.avila\\Repository\\CommercialRoutes\\CommercialRoutes.Infrastructure\\CommercialRoutes.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\dayana.avila\\Repository\\CommercialRoutes\\CommercialRoutes.Infrastructure\\CommercialRoutes.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dayana.avila\\Repository\\CommercialRoutes\\CommercialRoutes.Infrastructure\\CommercialRoutes.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dayana.avila\\Repository\\CommercialRoutes\\CommercialRoutes.Infrastructure\\CommercialRoutes.Infrastructure.csproj",
+        "projectName": "CommercialRoutes.Infrastructure",
+        "projectPath": "C:\\Users\\dayana.avila\\Repository\\CommercialRoutes\\CommercialRoutes.Infrastructure\\CommercialRoutes.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\dayana.avila\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dayana.avila\\Repository\\CommercialRoutes\\CommercialRoutes.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dayana.avila\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://vueling.pkgs.visualstudio.com/_packaging/vy-nuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Flurl.Http": {
+              "target": "Package",
+              "version": "[3.2.4, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
